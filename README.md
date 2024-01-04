@@ -3,9 +3,9 @@
 
 - 🔭 Actuellement en formation à [BeCode](https://becode.org/)
 
-- 🌱 Je suis entraint d'apprendre **Spring/StringBoot/RestAPI**
+- 🌱 J'apprend actuellement **Spring/StringBoot/RestAPI**
 
-- 📫 How to reach me **lefortvalentin94@gmail.com**
+- 📫  Pour me contacter **lefortvalentin94@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
