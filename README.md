@@ -1,9 +1,9 @@
 <h1 align="center">Salut 👋, Je suis Valentin Lefort</h1>
 <h3 align="center">Un développeur Java passionné</h3>
 
-- 🔭 Actuellement en formation à [BeCode](https://becode.org/)
+- 🔭 Actuellement en formation à [DiscoveRent](https://discoverent.com/)
 
-- 🌱 Je suis entraint d'apprendre **Spring/StringBoot/RestAPI/AndroidApps**
+- 🌱 Je suis entraint d'apprendre **Python & Django + Django admin**
 
 - 📫 Pour me contacter **lefortvalentin94@gmail.com**
 
